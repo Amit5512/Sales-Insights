@@ -1,1 +1,1 @@
-Sales Insights Dashboard
+Sales Insights Dashboard of AtliQ Hardware
