@@ -1,5 +1,7 @@
 Power BI Dashboard
 
+Descriptions :-
+
 Sales Insights - Brick and Motor
 Tools Used: Power BI, SQL
 Developed a comprehensive Power BI dashboard analyzing sales trends for AtliQ hardware goods (2017–2020). This interactive dashboard:
